@@ -1,0 +1,14 @@
+.UserOutput {
+    margin: 10px 50px 20px 50px;
+}
+
+.UserOutput-username {
+    background: cadetblue;
+    margin-bottom: -16px;
+}
+
+
+.UserOutput-id {
+    background: greenyellow;
+    text-align: left;
+}

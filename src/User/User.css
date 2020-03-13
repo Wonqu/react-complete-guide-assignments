@@ -1,0 +1,16 @@
+.User {
+    width: 15%;
+
+    text-align: center;
+
+    border-style: solid;
+    border-color: dimgray;
+    border-radius: 10px;
+    border-width: 1px;
+
+    background-color: paleturquoise;
+
+    padding-top: 20px;
+
+    margin: 20px auto;
+}
